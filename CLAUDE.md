@@ -8,6 +8,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Build & Development Commands
 
+> **Python Environment**: All commands below assume you are in the `python3` Conda environment. Activate it first:
+> ```bash
+> conda activate python3
+> ```
+
 ```bash
 # Install the package (editable dev mode) — prerequisite step
 make install

@@ -257,6 +257,6 @@ class Run(BaseRun):
 
 
 if __name__ == "__main__":
-    bs.login()
+    # bs.login()
     fire.Fire(Run)
-    bs.logout()
+    # bs.logout()
